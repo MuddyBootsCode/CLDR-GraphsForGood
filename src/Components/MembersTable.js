@@ -58,9 +58,19 @@ const MembersTable = () => {
                             streetAddress: '1234 Test Lane',
                             aptNumber: 'N/A',
                             memberCity: 'Testville',
-                            memberState: 'Texas',
+                            memberState: 'TX',
                             memberZip: '99999',
                             memberPhone: '111-111-1111'
+                        },
+                        { firstName: 'Tester jr',
+                            lastName: 'McTestface',
+                            email: 'testtyJoe@tester.com',
+                            streetAddress: '1111 Test blvd',
+                            aptNumber: 'N/A',
+                            memberCity: 'Testtown',
+                            memberState: 'OK',
+                            memberZip: '99999',
+                            memberPhone: '222-222-2222'
                         }
                     ]}
                     editable={{

@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32ab9852-34de-4051-b874-a071571896b5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/AddMemberForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/AddMemberForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/MainPageTabs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/MainPageTabs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/MembersTable.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/MembersTable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,11 +67,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585485715430</updated>
-      <workItem from="1585485716970" duration="6184000" />
+      <workItem from="1585485716970" duration="6735000" />
     </task>
+    <task id="LOCAL-00001" summary="Feature: Added test data to application">
+      <created>1585493515342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585493515342</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Feature: Added test data to application" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added test data to application" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="423" y="124" key="CommitChangelistDialog2" timestamp="1585494507115">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="423" y="124" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1585494507115" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1585493517449">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1585493517449" />
   </component>
 </project>
